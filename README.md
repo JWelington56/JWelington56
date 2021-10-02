@@ -5,6 +5,4 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JWelington56&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 </div>
 
-<div>
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)   
-</div>
+![Snake animation](https://github.com/JWelington56/JWelington56/blob/output/github-contribution-grid-snake.svg)   
